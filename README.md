@@ -10,6 +10,5 @@ Necessary packages: opfunu and enoppy.
   pages={},  
   year={2024},  
   publisher={Springer},  
-  doi = {},  
-  note = {Accepted},  
+  doi = {https://doi.org/10.1007/s10586-024-04508-1 },  
 }
