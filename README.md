@@ -9,7 +9,7 @@ This paper proposes a novel hybrid metaheuristic algorithm called the remora cra
   title={Hybrid remora crayfish optimization for engineering and wireless sensor network coverage optimization},  
   author={Rui Zhong and Qinqin Fan and Chao Zhang and Jun Yu},  
   journal={Cluster Computing},  
-  volume={27}, 
+  volume={27},  
   pages={10141–10168},  
   year={2024},  
   publisher={Springer},  
